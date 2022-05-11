@@ -12,7 +12,7 @@ function App() {
                 <p>
                     Hello everyone! I'm Duy
                 </p>
-                <p>Test</p>
+                <p>Test push</p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
