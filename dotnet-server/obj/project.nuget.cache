@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPozt3RZf48za6ZSJps7S746eUf6X+Rwlgx3H2OWDPOowqCTtwzP+YGFQtlZJQt9ZoCLQxZmEyCM+yhGWM/L3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Duy\\Documents\\dotnet-react\\dotnet-server\\dotnet-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Duy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Duy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Duy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Duy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Duy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
